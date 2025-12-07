@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Nikolai 👋
 
-<!--
-**NikolaiKrustev03/NikolaiKrustev03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student at TU Sofia and currently working in IT Support / Assistant System Administration.  
+I enjoy understanding how systems work end-to-end and I actively develop my skills through real projects, coding, and hands-on experimentation.
 
-Here are some ideas to get you started:
+### 🔧 Technologies & Interests
+- **Languages:** Python, JavaScript, HTML/CSS, SQL  
+- **Embedded Systems:** Raspberry Pi Pico & Zero 2 (hardware clock, voting system, microcontroller projects)  
+- **Operating Systems:** Linux (Mint, Kali)  
+- **SysAdmin:** basic system administration, scripting, automation  
+- **Cybersecurity:** OverTheWire, HackTheBox, networking fundamentals  
+- **General IT:** troubleshooting, user support, infrastructure basics  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Currently Learning
+- Cybersecurity fundamentals (HTB / OTW)  
+- System administration & networking  
+- Building real-world coding projects (Python, web, embedded)
+
+### 🛠️ Projects I’ve Worked On
+- Space Invaders game (Python)  
+- Slot machine (JavaScript)  
+- Personal calculator apps (Java, JS)  
+- Multiple microcontroller projects (Pico-based systems)  
+- ShareSpace — content-sharing platform concept  
+- Various small automation tools and practice programs
+
+### 🎯 My Goals
+I'm exploring my long-term direction between:
+- Software Engineering  
+- System Administration  
+- Cybersecurity  
+
+But I’m fully committed to continuous learning and improving as an IT professional.
+
